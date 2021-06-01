@@ -31,7 +31,7 @@ function Home() {
         <div className="home__row">
           <Product
             id="489456"
-            title="Tobo PS5 Controller Charging Station Compatible with PS5 Controller,Playstation 5 PS5 Controller Charger Dock Station with Fast Charging Speed in 2 Hours,PS5 Remote Charger Station with Charigng Cable"
+            title="Tobo PS5 Controller Charging Station"
             price={1450.99}
             rating={3}
             image="http://assets.stickpng.com/images/585ea27bcb11b227491c350b.png"
@@ -47,14 +47,14 @@ function Home() {
 
           <Product
             id="125896"
-            title="Vaio Z NZ14V3IN001P 14 inch/35.56 cm(Intel Core i7-11375H/32GB/2TB SSD/ Intel Iris Xe Graphics/Fingerprint Reader/UHD(4K)/win10 pro) 1.06kg, Signature Black"
+            title="Vaio Z NZ14V3IN001P 14 inch/35.56 cm"
             price={145.99}
             rating={3}
             image="https://i.pinimg.com/originals/28/b6/9f/28b69f7781076b155ec54a4dd364b579.png"
           />
         </div>
         <div className="home__row">
-        <Product
+          <Product
             id="325896"
             title="Redmi 164 cm (65 inches) 4K Ultra HD Android Smart LED TV X65|L65M6-RA (Black) (2021 Model)"
             price={14500.99}

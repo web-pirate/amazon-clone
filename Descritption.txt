@@ -1,0 +1,3 @@
+react libries 
+1. react-router-dom is used for navigation and making multiple pages in app
+2. react-currency-format is used for currency 
